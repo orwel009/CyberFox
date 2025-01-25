@@ -1,0 +1,9 @@
+/* styles.css */
+.container {
+    background-image: url('homepage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+  
